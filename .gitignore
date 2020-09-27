@@ -1,0 +1,6 @@
+.idea
+target
+maven/.idea
+maven/target
+parser/.idea
+parser/target
